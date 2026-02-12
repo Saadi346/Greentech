@@ -1,0 +1,20 @@
+/*
+Theme Name: GreenTech Ads
+Theme URI: https://greentechads.com
+Author: Your Name
+Author URI: https://yourwebsite.com
+Description: A modern black and green gradient WordPress theme for advertising websites
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GPL v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: greentech-ads
+Tags: black, green, gradient, advertising, responsive, custom-menu, featured-images
+*/
+
+/* 
+ * IMPORTANT: All styles are loaded via functions.php
+ * This file is only for WordPress theme recognition
+ */
